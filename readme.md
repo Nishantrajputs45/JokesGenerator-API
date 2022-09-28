@@ -1,6 +1,6 @@
 ## What to build
 
-we have to Jokes Generator API.
+we have to Design Jokes Generator API.
 
 ## Input
 
